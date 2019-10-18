@@ -1,0 +1,225 @@
+@media(min-width: 1220px) AND (max-width: 2500px){
+
+}
+body{
+    background-color: #2f3439;
+}
+li{
+    color: white;
+}
+hr{
+    color: black;
+}
+header{
+    position: fixed;
+    
+}
+.tete{
+    display: flex;
+    border: 5px solid  ;
+    width: 100%;
+    height: 145px;
+    margin-left: 15px;
+    background-color: #15BF8F;
+    opacity: 0.8;
+    backdrop-filter: blur();
+    
+}
+.tete img{
+    width: 125px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+.menu ul{
+    display: flex;
+    list-style-type: none;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.menu li a{
+    text-decoration: none;
+    margin-left: 25px;
+    font-size: 25px;
+    color: rgba(226, 8, 8, 0.692);
+}
+.icone{
+    display: flex;
+   margin-left: 400px;
+   margin-top: 20px;
+}
+.icone img{
+    width: 55px;
+    float:right;
+}
+
+/* milieu de la page */
+#pro{
+ margin-top: 9%;  
+}
+.profil{
+    border: 2px solid   #15BF8F;
+    height: 500px;
+    margin-left:150px;
+    margin-right: auto;
+    background-color: #15BF8F;
+    width: 85%;
+}
+.info{
+    border: 2px solid #15BF8F;
+    margin-top: 5%;
+    width: 400px;
+    height: 400px;
+    
+}
+/* {
+    /* margin-left: 25px;
+    text-align: justify; */
+ 
+.info h4, h2, h3{
+    margin-left: 5px;
+    color: white;
+}
+
+
+
+
+/* Competence metiers */
+ 
+#art1{
+margin-top: 250px;
+border: 2px solid #15BF8F;
+background-color: #fff;
+width: 85%;
+margin-left: 150px;
+margin-top: 7%;
+}
+#art1 h1{
+    color: #15BF8F;
+}
+#art1 li{
+    color:#15BF8F ;
+    
+}
+.metier{
+display: flex;
+margin-top: 150px;
+height: 600px;
+}
+#art1 .parti1{
+    border: 2px solid #15BF8F;
+    height: 350px;
+    width: 750px;
+    margin-left: 25px;
+    
+   
+}
+.parti2{
+    border: 2px solid #15BF8F;
+    height: 350px;
+    width: 750px;
+    margin-left: 25px;
+}
+
+.parti1 h1{
+text-align: center;
+font-size: 25px;
+text-decoration: underline;
+color: white;
+}
+.parti1 li{
+ margin-left: 5px;
+ list-style-type: none;
+ margin-top: 3px;
+}
+
+
+
+/* competence technologie */
+
+#arti2{
+    background-color: #15BF8F;
+    margin-top: 0px;
+    border: 2px solid white;
+    width: 85%;
+    margin-left: 150px;
+}
+#arti2 .parti1{
+    border: 2px solid white;
+    height: 350px;
+    width: 750px;
+    margin-left: 25px;
+}
+#arti2 .parti2{
+    border: 2px solid white;
+    height: 350px;
+    width: 750px;
+    margin-left: 25px;
+}
+.technologique{
+    display: flex;
+    height: 600px;
+    margin-top: 150px;
+   
+}
+.technologique .parti1 ul{
+    margin-top: 15px;
+}
+.technologique .parti1 li{
+    margin-top: 17px;
+    margin-left: 50px;
+}
+
+
+
+
+/* competence humaine */
+
+#arti3{
+    border: 2px solid #15BF8F;
+    height: 90%;
+    width: 85%;
+    margin-left: 150px;
+    background-color: white;
+
+}
+.humaines{
+    /* border: 2px solid #15BF8F; */
+    width: 1055px;
+    height: 500px;
+    margin-left: 250px;
+    display: flex;
+    margin-top: 150px;
+    /* background-color: white; */
+}
+.humaines ul li{
+margin-left: 15px;
+margin-top: 50px;
+list-style-type: circle;
+color:#15BF8F;
+}
+.humaines ul{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+/* h1, h3, h2{
+    color: white;
+    font-size: 28px;
+} */
+
+footer{
+    border: 2px solid black;
+    height: 100px;
+    
+    position: fixed;
+    bottom: 0;
+}
+
+.vid{
+    height: 150px;
+   
+}
+.titre{
+    border: 2px solid #15BF8F;
+    height: 80px;
+}
